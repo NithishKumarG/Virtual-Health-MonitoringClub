@@ -3,8 +3,8 @@ An WebApplication based on healthcare domain using cloud computing for secure he
 
 Technologies used:
 ⨉⨉⨉⨉⨉⨉⨉
-•	Operating System: Windows
-•	IDE	            : Net Beans 7.3.1
+•	Operating System: Windows                                                                                                                                                         
+•	IDE	            : Net Beans 7.3.1                                                                                                                                                  
 •	Technology		  : Java and J2EE
 •	Web Server		  : Tomcat
 •	Web Technologies: Html, JavaScript, CSS
